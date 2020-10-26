@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project explores the basic concepts of useState and useEffect in React. The data is fetched from an externale api.
 
 ## Available Scripts
 
