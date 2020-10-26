@@ -1,4 +1,4 @@
-This project explores the basic concepts of useState and useEffect in React. The data is fetched from an externale api.
+This project explores the basic concepts of useState and useEffect in React. The data is fetched from an external api.
 
 ## Available Scripts
 
